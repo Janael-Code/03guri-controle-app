@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#121212</color>
+    <color name="surface_card">#1E1E1E</color>
+    <color name="surface_elevated">#252525</color>
+    <color name="primary_blue">#2196F3</color>
+    <color name="primary_blue_bright">#007BFF</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="divider_subtle">#33FFFFFF</color>
+    <color name="error_red">#B0413E</color>
+    <color name="icon_on_primary">#FFFFFF</color>
+</resources>

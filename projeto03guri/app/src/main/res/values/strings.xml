@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">03Guri Controle</string>
+    <string name="login_title">03Guri Controle</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="enter">Entrar</string>
+    <string name="forgot_password">Esqueci minha senha?</string>
+    <string name="inventory">Estoque</string>
+    <string name="sales">Vendas</string>
+    <string name="clients">Clientes</string>
+    <string name="settings">Config</string>
+    <string name="home">Home</string>
+    <string name="stock_label">Estoque: %1$d un</string>
+    <string name="register_exit">Registrar Saída</string>
+    <string name="add_items_hint">Adicione itens para saída de estoque</string>
+    <string name="select_product">Selecione o Produto</string>
+    <string name="search_product_hint">Ex: Motor Trifásico WEG</string>
+    <string name="items_in_exit">Itens na Saída</string>
+    <string name="quantity">Quantidade</string>
+    <string name="remove">Remover</string>
+    <string name="add">Adicionar</string>
+    <string name="total_value">Valor Total: %1$s</string>
+    <string name="register_sale">Registrar Venda</string>
+    <string name="stock_current">Estoque atual: %1$d un</string>
+    <string name="toast_sale_ok">Venda registrada. Estoque atualizado.</string>
+    <string name="toast_invalid_qty">Informe uma quantidade válida.</string>
+    <string name="toast_insufficient">Estoque insuficiente para um ou mais itens.</string>
+    <string name="toast_empty_cart">Adicione itens à saída.</string>
+    <string name="add_to_cart">Adicionar ao carrinho</string>
+    <string name="none_found">Nenhum produto encontrado</string>
+    <string name="nav_placeholder">Em breve</string>
+</resources>
